@@ -1,4 +1,4 @@
-const ExplorerController = require("./../../lib/controllers/ExplorerController");
+const ExplorerController = require("./../../lib/controllers/Explorercontroller");
 
 describe("Tests para ExplorerController",()=>{
     test("Requerimiento: Obtener el trick de según un score dado", ()=>{
